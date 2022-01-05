@@ -58,3 +58,7 @@ Bounding-Box Detection
 1.put weights in weights_classification in classification/weights
 
 2.put weights in weights_detection in detection/weights
+
+## Reference
+
+https://github.com/erniechiew/kaggle_rsna_pneumonia_dancingbears
