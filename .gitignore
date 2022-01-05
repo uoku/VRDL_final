@@ -1,0 +1,7 @@
+classification/weights/*
+data/*
+detection/weights/*
+detection/backend.h5
+*.h5
+*.whl
+*.zip
